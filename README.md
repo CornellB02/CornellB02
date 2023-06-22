@@ -1,4 +1,4 @@
-### Hi there, I'm Cornell Welcome to my Github👋
+### Hi there, I'm Cornell 👋
 
 <!--
 **CornellB02/CornellB02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
