@@ -26,7 +26,7 @@
 <!-- <img src="https://github.com/CornellB02/CornellB02/assets/110238367/39bc5351-26b6-4ed3-8495-95996322d9c2" width="140" height="90"> -->
 
 ## Contact
-You can conact me at any of these 
+You can conact me at any of these:
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Cornell_Bethea_Jr-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cornell-bethea-a5349a97/)
 <br>
