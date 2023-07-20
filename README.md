@@ -34,9 +34,9 @@ You can conact me at any of these:
 <br>
 [![Gmail Badge](https://img.shields.io/badge/-Cornell_Bethea_Jr-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:betheacornellb@gmail.com)
 <br>
-<a href="https://cbethea-portfolio-v2.netlify.app/">
-  <img src="https://github.com/CornellB02/CornellB02/assets/110238367/134338cb-f0c1-47a5-94f3-8283dadef99b" alt="Image description" width="300" height="285">
-</a>
+[![Gmail Badge](https://img.shields.io/badge/-Personal_Portfolio-red?style=flat-square&logo=Cornell&logoColor=white)](https://cbethea-portfolio-v2.netlify.app/)
+
+
 
 
 
