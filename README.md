@@ -5,7 +5,7 @@
 ## About Me 
 - 📍 I'm a New York-based software developer and a recent graduate of App Academy, I am currently seeking new opportunities.
 - 🎥 Over the last 10 years, I've transformed my passionate hobby into a fulfilling profession in videography.
-- 💻 I am currently learning Python & Go.
+- 💻 I am currently learning Python.
 - ⏳ In my spare time I like to watch sports and work on personal projects.
 
 ## Technologies
