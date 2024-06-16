@@ -6,7 +6,7 @@
 - 📍 I'm a New York-based software developer and a recent graduate of App Academy, I am currently seeking new opportunities.
 - 🎥 Over the last 10 years, I've transformed my passionate hobby into a fulfilling profession in videography.
 - 💻 I am currently learning Go.
-- ⏳ In my spare time I like to watch sports and work on personal projects.
+- ⏳ In my spare time I like to play sports and video games, and work on personal projects.
 
 ## Technologies
 <img src="https://github.com/CornellB02/CornellB02/assets/110238367/1fdec821-b990-4cc8-8087-d499731a6e4e" width="140" height="90">
